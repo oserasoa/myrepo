@@ -3,4 +3,6 @@ class PagesController < ApplicationController
   end
   def contactUS
   end
+  def aboutUS
+  end
 end
